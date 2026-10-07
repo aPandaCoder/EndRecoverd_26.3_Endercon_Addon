@@ -1,5 +1,4 @@
 # End Recoverd Features:
-------------------------
 ## IMPORTANT:
 - **ENDERCON 4.0 IS REQUIRED**
 - Download [here](https://modrinth.com/datapack/endercon)
@@ -17,7 +16,7 @@
 Here are all biomes displayed (With the Endercon data pack)
 ![All Endrecoverd Biomes](images/All_biomes.png)
 
-### Moss Thicket
+## Moss Thicket
 <img align="left" src="images/mossthicket.png" width="50%" style="margin-right: 15px;"/>
 The moss Thicket is a mossy place spawning with moss mushrooms with a ground of:
 <br>
@@ -25,4 +24,37 @@ The moss Thicket is a mossy place spawning with moss mushrooms with a ground of:
 <img src="https://static.wikia.nocookie.net/minecraft/images/0/02/Moss_Block.png/revision/latest?cb=20210203184652" alt="Moss" width="15%">
 <img src="https://static.wikia.nocookie.net/minecraft/images/b/bd/MossyCobblestoneNew.png/revision/latest?cb=20191027185506" alt="Mossy Cobblestone" width="15%">
 <img src="https://static.wikia.nocookie.net/minecraft/images/3/33/AzaleaRoots.png/revision/latest?cb=20210203184544" alt="Rooted Dirt" width="15%">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQU2taVZvVsFdJVstYVUpXB4LychlRU_UsVLn-w1rBHEQ&s" alt="Rooted Dirt" width="15%">
+<img src="https://minecraft.wiki/images/thumb/Mud_JE1_BE1.png/150px-Mud_JE1_BE1.png?e483b" alt="Podzol" width="15%">
+<img src="https://minecraft.wiki/images/Podzol_JE2_BE2.png?72707" alt="Rooted Dirt" width="15%">
+<img src="https://minecraft.wiki/images/End_Stone_JE3_BE2.png?8f71b" alt="End Stone" width="15%">
+<br>
+
+### Strucures
+<img align="left" src="images/structures/moss_garden.png" width="49%">
+<img align="right" src="images/structures/moss_ruin.png" width="49%">
+Moss Garden & Moss Ruin
+<br>
+These Structures spawn each with a loot chest
+<br>
+
+
+## Amethyst Reaches
+
+<img align="left" src="images/amethyst_reaches.png" width="50%" style="margin-right: 15px;"/>
+The Amethist are a crystal place with a purple look:
+<br>
+<br>
+<img src="https://minecraft.wiki/images/Block_of_Amethyst_JE3_BE1.png?14501" alt="Amethist Block" width="15%">
+<img src="https://static.wikia.nocookie.net/minecraft/images/b/bd/MossyCobblestoneNew.png/revision/latest?cb=20191027185506" alt="Mossy Cobblestone" width="15%">
+<img src="https://static.wikia.nocookie.net/minecraft/images/3/33/AzaleaRoots.png/revision/latest?cb=20210203184544" alt="Rooted Dirt" width="15%">
+<img src="https://minecraft.wiki/images/thumb/Mud_JE1_BE1.png/150px-Mud_JE1_BE1.png?e483b" alt="Podzol" width="15%">
+<img src="https://minecraft.wiki/images/Podzol_JE2_BE2.png?72707" alt="Rooted Dirt" width="15%">
+<img src="https://minecraft.wiki/images/End_Stone_JE3_BE2.png?8f71b" alt="End Stone" width="15%">
+<br>
+
+### Strucures
+<img align="left" src="images/structures/moss_garden.png" width="49%">
+<img align="right" src="images/structures/moss_ruin.png" width="49%">
+Moss Garden & Moss Ruin
+<br>
+These Structures spawn each with a loot chest
