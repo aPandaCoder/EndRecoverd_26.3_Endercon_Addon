@@ -1,0 +1,47 @@
+{
+  "feature": "endrecoverd:purpur_lamp",
+  "placement": [
+    {
+      "type": "minecraft:rarity_filter",
+      "chance": 5
+    },
+    {
+      "type": "minecraft:in_square"
+    },
+    {
+      "type": "minecraft:heightmap",
+      "heightmap": "MOTION_BLOCKING"
+    },
+    {
+      "type": "minecraft:biome"
+    },
+    {
+      "type": "minecraft:block_predicate_filter",
+      "predicate": {
+        "type": "minecraft:all_of",
+        "predicates": [
+          {
+            "type": "minecraft:matching_block_tag",
+            "tag": "minecraft:air"
+          },
+          {
+            "type": "minecraft:matching_blocks",
+            "offset": [
+              0,
+              -1,
+              0
+            ],
+            "blocks": [
+              "minecraft:end_stone",
+              "minecraft:moss_block",
+              "minecraft:podzol",
+              "minecraft:rooted_dirt",
+              "minecraft:mud",
+              "minecraft:mossy_cobblestone"
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

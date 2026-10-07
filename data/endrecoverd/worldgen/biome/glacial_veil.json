@@ -1,0 +1,68 @@
+{
+  "attributes": {
+    "minecraft:visual/fog_color": "#9cc4e4",
+    "minecraft:visual/ambient_particles": [
+      {
+        "particle": {
+          "type": "minecraft:snowflake"
+        },
+        "probability": 0.03
+      }
+    ],
+    "minecraft:gameplay/natural_mob_spawns": {
+      "argument": {
+        "spawn_costs": {},
+        "spawns_by_category": {
+          "monster": [
+            {
+              "type": "minecraft:enderman",
+              "count": 4,
+              "weight": 10
+            }
+          ]
+        }
+      },
+      "modifier": "overlay"
+    },
+    "minecraft:audio/background_music": {
+      "default": {
+        "max_delay": 24000,
+        "min_delay": 12000,
+        "sound": "minecraft:music.overworld.frozen_peaks"
+      }
+    }
+  },
+  "carvers": [],
+  "downfall": 0.5,
+  "effects": {
+    "water_color": "#17d6f8"
+  },
+  "features": [
+    [],
+    [],
+    [],
+    [],
+    [
+      "minecraft:end_gateway_return",
+      "endrecoverd:frozen_cache",
+      "endrecoverd:ice_igloo"
+    ],
+    [],
+    [
+      "endrecoverd:snow_veins",
+      "endrecoverd:ice_veins",
+      "endrecoverd:blue_ice_veins"
+    ],
+    [],
+    [],
+    [
+      "endrecoverd:ice_spike",
+      "endrecoverd:frost_boulder",
+      "endrecoverd:ice_lantern",
+      "endrecoverd:snow_cover",
+      "minecraft:chorus_plant"
+    ]
+  ],
+  "has_precipitation": false,
+  "temperature": 0.5
+}

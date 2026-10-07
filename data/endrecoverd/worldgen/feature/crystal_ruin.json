@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:template",
+  "templates": [
+    {
+      "data": {
+        "id": "endrecoverd:crystal_ruin",
+        "rotations": []
+      },
+      "weight": 1
+    }
+  ],
+  "processors": []
+}

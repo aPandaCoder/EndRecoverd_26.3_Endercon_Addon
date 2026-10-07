@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:block_blob",
+  "can_place_on": {
+    "type": "minecraft:matching_blocks",
+    "blocks": [
+      "minecraft:end_stone",
+      "minecraft:obsidian",
+      "minecraft:blackstone",
+      "minecraft:magma_block",
+      "minecraft:crying_obsidian",
+      "minecraft:smooth_basalt",
+      "minecraft:basalt",
+      "minecraft:gilded_blackstone"
+    ]
+  },
+  "state": {
+    "id": "minecraft:blackstone"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:template",
+  "templates": [
+    {
+      "data": {
+        "id": "endrecoverd:moss_garden"
+      },
+      "weight": 1
+    }
+  ]
+}

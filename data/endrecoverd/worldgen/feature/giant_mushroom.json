@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:random_boolean_selector",
+  "feature_false": {
+    "feature": "endrecoverd:moss_mushroom_wide",
+    "placement": []
+  },
+  "feature_true": {
+    "feature": "endrecoverd:moss_mushroom_tall",
+    "placement": []
+  }
+}

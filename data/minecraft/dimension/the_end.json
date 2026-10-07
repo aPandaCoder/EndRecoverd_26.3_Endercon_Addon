@@ -1,0 +1,1122 @@
+{
+  "type": "minecraft:the_end",
+  "generator": {
+    "biome_source": {
+      "biomes": [
+        {
+          "parameters": {
+            "weirdness": [
+              -1,
+              1
+            ],
+            "continentalness": [
+              -1,
+              1
+            ],
+            "erosion": [
+              0,
+              0.07
+            ],
+            "temperature": [
+              -1,
+              1
+            ],
+            "humidity": [
+              -1,
+              1
+            ],
+            "depth": [
+              -1,
+              0.8300000000000001
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:the_end"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -1,
+              1
+            ],
+            "continentalness": [
+              -1,
+              1
+            ],
+            "erosion": [
+              0.07,
+              1
+            ],
+            "temperature": [
+              -1,
+              1
+            ],
+            "humidity": [
+              -1,
+              1
+            ],
+            "depth": [
+              -1,
+              -0.45
+            ],
+            "offset": 0
+          },
+          "biome": "endercon:end_depths"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -1,
+              1
+            ],
+            "continentalness": [
+              -1,
+              1
+            ],
+            "erosion": [
+              0.07,
+              0.3
+            ],
+            "temperature": [
+              -1,
+              1
+            ],
+            "humidity": [
+              -1,
+              1
+            ],
+            "depth": [
+              -0.45,
+              0.8300000000000001
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:the_end"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -1,
+              1
+            ],
+            "continentalness": [
+              -1,
+              1
+            ],
+            "erosion": [
+              0.3,
+              0.8
+            ],
+            "temperature": [
+              -1,
+              1
+            ],
+            "humidity": [
+              0.4,
+              1
+            ],
+            "depth": [
+              -0.45,
+              0.8300000000000001
+            ],
+            "offset": 0
+          },
+          "biome": "endrecoverd:moss_thicket"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -1,
+              1
+            ],
+            "continentalness": [
+              -1,
+              1
+            ],
+            "erosion": [
+              0.3,
+              0.8
+            ],
+            "temperature": [
+              0.4,
+              1
+            ],
+            "humidity": [
+              -1,
+              0.4
+            ],
+            "depth": [
+              -0.45,
+              0.8300000000000001
+            ],
+            "offset": 0
+          },
+          "biome": "endrecoverd:obsidian_crags"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -1,
+              1
+            ],
+            "continentalness": [
+              -1,
+              1
+            ],
+            "erosion": [
+              0.3,
+              0.8
+            ],
+            "temperature": [
+              -1,
+              -0.4
+            ],
+            "humidity": [
+              -1,
+              0.4
+            ],
+            "depth": [
+              -0.45,
+              0.8300000000000001
+            ],
+            "offset": 0
+          },
+          "biome": "endrecoverd:glacial_veil"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -1,
+              1
+            ],
+            "continentalness": [
+              -1,
+              1
+            ],
+            "erosion": [
+              0.3,
+              0.8
+            ],
+            "temperature": [
+              -0.4,
+              0.4
+            ],
+            "humidity": [
+              -1,
+              -0.4
+            ],
+            "depth": [
+              -0.45,
+              0.8300000000000001
+            ],
+            "offset": 0
+          },
+          "biome": "endrecoverd:amethyst_reaches"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -1,
+              1
+            ],
+            "continentalness": [
+              -1,
+              1
+            ],
+            "erosion": [
+              0.3,
+              0.8
+            ],
+            "temperature": [
+              -0.4,
+              0.4
+            ],
+            "humidity": [
+              -0.4,
+              0.4
+            ],
+            "depth": [
+              -0.45,
+              0.8300000000000001
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:small_end_islands"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -1,
+              -0.72
+            ],
+            "continentalness": [
+              -1,
+              -0.48
+            ],
+            "erosion": [
+              0.8,
+              1
+            ],
+            "temperature": [
+              -1,
+              1
+            ],
+            "humidity": [
+              0.4,
+              1
+            ],
+            "depth": [
+              -0.45,
+              0.8300000000000001
+            ],
+            "offset": 0
+          },
+          "biome": "endrecoverd:moss_thicket"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -1,
+              -0.72
+            ],
+            "continentalness": [
+              -1,
+              -0.48
+            ],
+            "erosion": [
+              0.8,
+              1
+            ],
+            "temperature": [
+              0.4,
+              1
+            ],
+            "humidity": [
+              -1,
+              0.4
+            ],
+            "depth": [
+              -0.45,
+              0.8300000000000001
+            ],
+            "offset": 0
+          },
+          "biome": "endrecoverd:obsidian_crags"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -1,
+              -0.72
+            ],
+            "continentalness": [
+              -1,
+              -0.48
+            ],
+            "erosion": [
+              0.8,
+              1
+            ],
+            "temperature": [
+              -1,
+              -0.4
+            ],
+            "humidity": [
+              -1,
+              0.4
+            ],
+            "depth": [
+              -0.45,
+              0.8300000000000001
+            ],
+            "offset": 0
+          },
+          "biome": "endrecoverd:glacial_veil"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -1,
+              -0.72
+            ],
+            "continentalness": [
+              -1,
+              -0.48
+            ],
+            "erosion": [
+              0.8,
+              1
+            ],
+            "temperature": [
+              -0.4,
+              0.4
+            ],
+            "humidity": [
+              -1,
+              -0.4
+            ],
+            "depth": [
+              -0.45,
+              0.8300000000000001
+            ],
+            "offset": 0
+          },
+          "biome": "endrecoverd:amethyst_reaches"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -1,
+              -0.72
+            ],
+            "continentalness": [
+              -1,
+              -0.48
+            ],
+            "erosion": [
+              0.8,
+              1
+            ],
+            "temperature": [
+              -0.4,
+              0.4
+            ],
+            "humidity": [
+              -0.4,
+              0.4
+            ],
+            "depth": [
+              -0.45,
+              0.8300000000000001
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:end_midlands"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -1,
+              1
+            ],
+            "continentalness": [
+              -0.48,
+              1
+            ],
+            "erosion": [
+              0.8,
+              1
+            ],
+            "temperature": [
+              -1,
+              1
+            ],
+            "humidity": [
+              0.4,
+              1
+            ],
+            "depth": [
+              -0.45,
+              0.8300000000000001
+            ],
+            "offset": 0
+          },
+          "biome": "endrecoverd:moss_thicket"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -1,
+              1
+            ],
+            "continentalness": [
+              -0.48,
+              1
+            ],
+            "erosion": [
+              0.8,
+              1
+            ],
+            "temperature": [
+              0.4,
+              1
+            ],
+            "humidity": [
+              -1,
+              0.4
+            ],
+            "depth": [
+              -0.45,
+              0.8300000000000001
+            ],
+            "offset": 0
+          },
+          "biome": "endrecoverd:obsidian_crags"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -1,
+              1
+            ],
+            "continentalness": [
+              -0.48,
+              1
+            ],
+            "erosion": [
+              0.8,
+              1
+            ],
+            "temperature": [
+              -1,
+              -0.4
+            ],
+            "humidity": [
+              -1,
+              0.4
+            ],
+            "depth": [
+              -0.45,
+              0.8300000000000001
+            ],
+            "offset": 0
+          },
+          "biome": "endrecoverd:glacial_veil"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -1,
+              1
+            ],
+            "continentalness": [
+              -0.48,
+              1
+            ],
+            "erosion": [
+              0.8,
+              1
+            ],
+            "temperature": [
+              -0.4,
+              0.4
+            ],
+            "humidity": [
+              -1,
+              -0.4
+            ],
+            "depth": [
+              -0.45,
+              0.8300000000000001
+            ],
+            "offset": 0
+          },
+          "biome": "endrecoverd:amethyst_reaches"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -1,
+              1
+            ],
+            "continentalness": [
+              -0.48,
+              1
+            ],
+            "erosion": [
+              0.8,
+              1
+            ],
+            "temperature": [
+              -0.4,
+              0.4
+            ],
+            "humidity": [
+              -0.4,
+              0.4
+            ],
+            "depth": [
+              -0.45,
+              0.8300000000000001
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:small_end_islands"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -0.72,
+              -0.14
+            ],
+            "continentalness": [
+              -1,
+              -0.48
+            ],
+            "erosion": [
+              0.8,
+              1
+            ],
+            "temperature": [
+              -1,
+              1
+            ],
+            "humidity": [
+              0.4,
+              1
+            ],
+            "depth": [
+              -0.45,
+              0.8300000000000001
+            ],
+            "offset": 0
+          },
+          "biome": "endrecoverd:moss_thicket"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -0.72,
+              -0.14
+            ],
+            "continentalness": [
+              -1,
+              -0.48
+            ],
+            "erosion": [
+              0.8,
+              1
+            ],
+            "temperature": [
+              0.4,
+              1
+            ],
+            "humidity": [
+              -1,
+              0.4
+            ],
+            "depth": [
+              -0.45,
+              0.8300000000000001
+            ],
+            "offset": 0
+          },
+          "biome": "endrecoverd:obsidian_crags"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -0.72,
+              -0.14
+            ],
+            "continentalness": [
+              -1,
+              -0.48
+            ],
+            "erosion": [
+              0.8,
+              1
+            ],
+            "temperature": [
+              -1,
+              -0.4
+            ],
+            "humidity": [
+              -1,
+              0.4
+            ],
+            "depth": [
+              -0.45,
+              0.8300000000000001
+            ],
+            "offset": 0
+          },
+          "biome": "endrecoverd:glacial_veil"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -0.72,
+              -0.14
+            ],
+            "continentalness": [
+              -1,
+              -0.48
+            ],
+            "erosion": [
+              0.8,
+              1
+            ],
+            "temperature": [
+              -0.4,
+              0.4
+            ],
+            "humidity": [
+              -1,
+              -0.4
+            ],
+            "depth": [
+              -0.45,
+              0.8300000000000001
+            ],
+            "offset": 0
+          },
+          "biome": "endrecoverd:amethyst_reaches"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -0.72,
+              -0.14
+            ],
+            "continentalness": [
+              -1,
+              -0.48
+            ],
+            "erosion": [
+              0.8,
+              1
+            ],
+            "temperature": [
+              -0.4,
+              0.4
+            ],
+            "humidity": [
+              -0.4,
+              0.4
+            ],
+            "depth": [
+              -0.45,
+              0.8300000000000001
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:end_barrens"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -0.14,
+              0.14
+            ],
+            "continentalness": [
+              -1,
+              -0.48
+            ],
+            "erosion": [
+              0.8,
+              1
+            ],
+            "temperature": [
+              -1,
+              1
+            ],
+            "humidity": [
+              -1,
+              1
+            ],
+            "depth": [
+              -0.45,
+              0.8300000000000001
+            ],
+            "offset": 0
+          },
+          "biome": "endercon:end_hallows"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.14,
+              0.72
+            ],
+            "continentalness": [
+              -1,
+              -0.48
+            ],
+            "erosion": [
+              0.8,
+              1
+            ],
+            "temperature": [
+              -1,
+              1
+            ],
+            "humidity": [
+              0.4,
+              1
+            ],
+            "depth": [
+              -0.45,
+              0.8300000000000001
+            ],
+            "offset": 0
+          },
+          "biome": "endrecoverd:moss_thicket"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.14,
+              0.72
+            ],
+            "continentalness": [
+              -1,
+              -0.48
+            ],
+            "erosion": [
+              0.8,
+              1
+            ],
+            "temperature": [
+              0.4,
+              1
+            ],
+            "humidity": [
+              -1,
+              0.4
+            ],
+            "depth": [
+              -0.45,
+              0.8300000000000001
+            ],
+            "offset": 0
+          },
+          "biome": "endrecoverd:obsidian_crags"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.14,
+              0.72
+            ],
+            "continentalness": [
+              -1,
+              -0.48
+            ],
+            "erosion": [
+              0.8,
+              1
+            ],
+            "temperature": [
+              -1,
+              -0.4
+            ],
+            "humidity": [
+              -1,
+              0.4
+            ],
+            "depth": [
+              -0.45,
+              0.8300000000000001
+            ],
+            "offset": 0
+          },
+          "biome": "endrecoverd:glacial_veil"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.14,
+              0.72
+            ],
+            "continentalness": [
+              -1,
+              -0.48
+            ],
+            "erosion": [
+              0.8,
+              1
+            ],
+            "temperature": [
+              -0.4,
+              0.4
+            ],
+            "humidity": [
+              -1,
+              -0.4
+            ],
+            "depth": [
+              -0.45,
+              0.8300000000000001
+            ],
+            "offset": 0
+          },
+          "biome": "endrecoverd:amethyst_reaches"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.14,
+              0.72
+            ],
+            "continentalness": [
+              -1,
+              -0.48
+            ],
+            "erosion": [
+              0.8,
+              1
+            ],
+            "temperature": [
+              -0.4,
+              0.4
+            ],
+            "humidity": [
+              -0.4,
+              0.4
+            ],
+            "depth": [
+              -0.45,
+              0.8300000000000001
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:end_barrens"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.72,
+              1
+            ],
+            "continentalness": [
+              -1,
+              -0.48
+            ],
+            "erosion": [
+              0.8,
+              1
+            ],
+            "temperature": [
+              -1,
+              1
+            ],
+            "humidity": [
+              0.4,
+              1
+            ],
+            "depth": [
+              -0.45,
+              0.8300000000000001
+            ],
+            "offset": 0
+          },
+          "biome": "endrecoverd:moss_thicket"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.72,
+              1
+            ],
+            "continentalness": [
+              -1,
+              -0.48
+            ],
+            "erosion": [
+              0.8,
+              1
+            ],
+            "temperature": [
+              0.4,
+              1
+            ],
+            "humidity": [
+              -1,
+              0.4
+            ],
+            "depth": [
+              -0.45,
+              0.8300000000000001
+            ],
+            "offset": 0
+          },
+          "biome": "endrecoverd:obsidian_crags"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.72,
+              1
+            ],
+            "continentalness": [
+              -1,
+              -0.48
+            ],
+            "erosion": [
+              0.8,
+              1
+            ],
+            "temperature": [
+              -1,
+              -0.4
+            ],
+            "humidity": [
+              -1,
+              0.4
+            ],
+            "depth": [
+              -0.45,
+              0.8300000000000001
+            ],
+            "offset": 0
+          },
+          "biome": "endrecoverd:glacial_veil"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.72,
+              1
+            ],
+            "continentalness": [
+              -1,
+              -0.48
+            ],
+            "erosion": [
+              0.8,
+              1
+            ],
+            "temperature": [
+              -0.4,
+              0.4
+            ],
+            "humidity": [
+              -1,
+              -0.4
+            ],
+            "depth": [
+              -0.45,
+              0.8300000000000001
+            ],
+            "offset": 0
+          },
+          "biome": "endrecoverd:amethyst_reaches"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.72,
+              1
+            ],
+            "continentalness": [
+              -1,
+              -0.48
+            ],
+            "erosion": [
+              0.8,
+              1
+            ],
+            "temperature": [
+              -0.4,
+              0.4
+            ],
+            "humidity": [
+              -0.4,
+              0.4
+            ],
+            "depth": [
+              -0.45,
+              0.8300000000000001
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:end_highlands"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -1,
+              1
+            ],
+            "continentalness": [
+              -1,
+              0.1
+            ],
+            "erosion": [
+              0,
+              1
+            ],
+            "temperature": [
+              -1,
+              1
+            ],
+            "humidity": [
+              -1,
+              1
+            ],
+            "depth": [
+              0.8300000000000001,
+              1.2
+            ],
+            "offset": 0
+          },
+          "biome": "endercon:end_skies"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -1,
+              1
+            ],
+            "continentalness": [
+              0.1,
+              1
+            ],
+            "erosion": [
+              0,
+              0.8
+            ],
+            "temperature": [
+              -1,
+              1
+            ],
+            "humidity": [
+              -1,
+              1
+            ],
+            "depth": [
+              0.8300000000000001,
+              1.2
+            ],
+            "offset": 0
+          },
+          "biome": "endercon:end_skies"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -1,
+              1
+            ],
+            "continentalness": [
+              0.1,
+              1
+            ],
+            "erosion": [
+              0.8,
+              1
+            ],
+            "temperature": [
+              -1,
+              1
+            ],
+            "humidity": [
+              -1,
+              1
+            ],
+            "depth": [
+              0.8300000000000001,
+              1.2
+            ],
+            "offset": 0
+          },
+          "biome": "endercon:end_sky_islands"
+        }
+      ],
+      "type": "minecraft:multi_noise"
+    },
+    "settings": "minecraft:end",
+    "type": "minecraft:noise"
+  }
+}

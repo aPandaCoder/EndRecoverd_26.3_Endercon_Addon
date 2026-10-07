@@ -1,0 +1,88 @@
+{
+  "attributes": {
+    "minecraft:visual/fog_color": "#0f2a22",
+    "minecraft:visual/ambient_particles": [
+      {
+        "particle": {
+          "type": "minecraft:spore_blossom_air"
+        },
+        "probability": 0.01
+      },
+      {
+        "particle": {
+          "type": "minecraft:warped_spore"
+        },
+        "probability": 0.004
+      }
+    ],
+    "minecraft:gameplay/natural_mob_spawns": {
+      "argument": {
+        "spawn_costs": {},
+        "spawns_by_category": {
+          "monster": [
+            {
+              "type": "minecraft:enderman",
+              "count": 4,
+              "weight": 10
+            }
+          ]
+        }
+      },
+      "modifier": "overlay"
+    },
+    "minecraft:audio/ambient_sounds": {
+      "additions": {
+        "sound": "minecraft:ambient.warped_forest.additions",
+        "tick_chance": 0.0111
+      },
+      "loop": "minecraft:ambient.warped_forest.loop",
+      "mood": {
+        "block_search_extent": 8,
+        "offset": 2.0,
+        "sound": "minecraft:ambient.warped_forest.mood",
+        "tick_delay": 6000
+      }
+    },
+    "minecraft:audio/background_music": {
+      "default": {
+        "max_delay": 24000,
+        "min_delay": 12000,
+        "sound": "minecraft:music.overworld.lush_caves"
+      }
+    }
+  },
+  "carvers": [],
+  "downfall": 0.5,
+  "effects": {
+    "water_color": "#3fe49f"
+  },
+  "features": [
+    [],
+    [],
+    [],
+    [],
+    [
+      "minecraft:end_gateway_return",
+      "endrecoverd:overgrown_ruin",
+      "endrecoverd:moss_garden"
+    ],
+    [],
+    [
+      "endrecoverd:moss_patch"
+    ],
+    [
+      "endrecoverd:glow_lichen_growth"
+    ],
+    [],
+    [
+      "endrecoverd:moss_carpet",
+      "endrecoverd:moss_flora",
+      "endrecoverd:giant_mushroom",
+      "endrecoverd:purpur_lamp",
+      "minecraft:chorus_plant"
+    ],
+    []
+  ],
+  "has_precipitation": false,
+  "temperature": 0.5
+}

@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:template",
+  "templates": [
+    {
+      "data": {
+        "id": "endrecoverd:obsidian_altar"
+      },
+      "weight": 1
+    }
+  ]
+}

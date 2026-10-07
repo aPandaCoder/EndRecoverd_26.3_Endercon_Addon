@@ -1,0 +1,87 @@
+{
+  "attributes": {
+    "minecraft:visual/fog_color": "#1a0d22",
+    "minecraft:visual/ambient_particles": [
+      {
+        "particle": {
+          "type": "minecraft:ash"
+        },
+        "probability": 0.02
+      },
+      {
+        "particle": {
+          "type": "minecraft:crimson_spore"
+        },
+        "probability": 0.003
+      }
+    ],
+    "minecraft:gameplay/natural_mob_spawns": {
+      "argument": {
+        "spawn_costs": {},
+        "spawns_by_category": {
+          "monster": [
+            {
+              "type": "minecraft:enderman",
+              "count": 4,
+              "weight": 10
+            }
+          ]
+        }
+      },
+      "modifier": "overlay"
+    },
+    "minecraft:audio/ambient_sounds": {
+      "additions": {
+        "sound": "minecraft:ambient.basalt_deltas.additions",
+        "tick_chance": 0.0111
+      },
+      "loop": "minecraft:ambient.basalt_deltas.loop",
+      "mood": {
+        "block_search_extent": 8,
+        "offset": 2.0,
+        "sound": "minecraft:ambient.basalt_deltas.mood",
+        "tick_delay": 6000
+      }
+    },
+    "minecraft:audio/background_music": {
+      "default": {
+        "max_delay": 24000,
+        "min_delay": 12000,
+        "sound": "minecraft:music.nether.basalt_deltas"
+      }
+    }
+  },
+  "carvers": [],
+  "downfall": 0.5,
+  "effects": {
+    "water_color": "#3f76e4"
+  },
+  "features": [
+    [],
+    [],
+    [],
+    [],
+    [
+      "minecraft:end_gateway_return",
+      "endrecoverd:obsidian_altar",
+      "endrecoverd:obsidian_ruin"
+    ],
+    [],
+    [
+      "endrecoverd:obsidian_veins",
+      "endrecoverd:crying_veins",
+      "endrecoverd:magma_veins"
+    ],
+    [],
+    [],
+    [
+      "endrecoverd:obsidian_spire",
+      "endrecoverd:basalt_pillar_grove",
+      "endrecoverd:blackstone_boulder",
+      "minecraft:chorus_plant"
+    ],
+    []
+  ],
+  "has_precipitation": false,
+  "temperature": 0.5
+}

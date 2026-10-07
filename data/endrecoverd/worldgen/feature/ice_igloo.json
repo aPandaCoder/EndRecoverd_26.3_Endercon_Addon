@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:template",
+  "templates": [
+    {
+      "data": {
+        "id": "endrecoverd:ice_igloo"
+      },
+      "weight": 2
+    }
+  ]
+}

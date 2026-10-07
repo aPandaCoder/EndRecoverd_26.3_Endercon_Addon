@@ -1,0 +1,56 @@
+{
+  "default_block": "minecraft:end_stone",
+  "default_fluid": "minecraft:air",
+  "disable_mob_generation": false,
+  "legacy_random_source": true,
+  "noise": {
+    "height": 320,
+    "min_y": -48
+  },
+  "noise_router": {
+    "continents": {
+      "type": "add",
+      "left": {
+        "type": "interpolated",
+        "cell_size_xz": 8,
+        "cell_size_y": 4,
+        "input": "endercon:final_density"
+      },
+      "right": -1
+    },
+    "depth": "endercon:depth",
+    "erosion": {
+      "type": "interpolated",
+      "cell_size_xz": 8,
+      "cell_size_y": 4,
+      "input": {
+        "type": "minecraft:div",
+        "left": "endercon:center",
+        "right": 1000
+      }
+    },
+    "final_density": "endercon:end_terrain",
+    "chunk_surface_level": 0.0,
+    "ridges": {
+      "type": "interpolated",
+      "cell_size_xz": 8,
+      "cell_size_y": 4,
+      "input": "endercon:jaggedness"
+    },
+    "temperature": {
+      "type": "minecraft:noise",
+      "noise": "endercon:temperature",
+      "xz_scale": 0.7,
+      "y_scale": 0.0
+    },
+    "vegetation": {
+      "type": "minecraft:noise",
+      "noise": "endercon:vegetation",
+      "xz_scale": 0.7,
+      "y_scale": 0.0
+    }
+  },
+  "sea_level": 0,
+  "spawn_target": [],
+  "material_rule": "endrecoverd:end"
+}

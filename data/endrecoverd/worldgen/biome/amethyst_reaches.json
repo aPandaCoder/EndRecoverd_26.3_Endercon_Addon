@@ -1,0 +1,73 @@
+{
+  "attributes": {
+    "minecraft:visual/fog_color": "#2a1840",
+    "minecraft:visual/ambient_particles": [
+      {
+        "particle": {
+          "type": "minecraft:end_rod"
+        },
+        "probability": 0.004
+      },
+      {
+        "particle": {
+          "type": "minecraft:glow"
+        },
+        "probability": 0.002
+      }
+    ],
+    "minecraft:gameplay/natural_mob_spawns": {
+      "argument": {
+        "spawn_costs": {},
+        "spawns_by_category": {
+          "monster": [
+            {
+              "type": "minecraft:enderman",
+              "count": 4,
+              "weight": 10
+            }
+          ]
+        }
+      },
+      "modifier": "overlay"
+    },
+    "minecraft:audio/background_music": {
+      "default": {
+        "max_delay": 24000,
+        "min_delay": 12000,
+        "sound": "minecraft:music.overworld.dripstone_caves"
+      }
+    }
+  },
+  "carvers": [],
+  "downfall": 0.5,
+  "effects": {
+    "water_color": "#775ae2"
+  },
+  "features": [
+    [],
+    [],
+    [],
+    [],
+    [
+      "minecraft:end_gateway_return",
+      "endrecoverd:crystal_shrine",
+      "endrecoverd:crystal_ruin"
+    ],
+    [],
+    [
+      "endrecoverd:amethyst_veins",
+      "endrecoverd:budding_amethyst"
+    ],
+    [],
+    [],
+    [
+      "endrecoverd:crystal_spire",
+      "endrecoverd:great_crystal",
+      "endrecoverd:amethyst_boulder",
+      "endrecoverd:crystal_buds",
+      "minecraft:chorus_plant"
+    ]
+  ],
+  "has_precipitation": false,
+  "temperature": 0.5
+}
