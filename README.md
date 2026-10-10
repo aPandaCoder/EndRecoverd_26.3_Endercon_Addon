@@ -231,3 +231,19 @@ Template names: `crystal_shrine`, `crystal_ruin`, `overgrown_ruin`, `moss_garden
 - **Created by:** Simon
 - **Required data pack:** [Endercon](https://modrinth.com/datapack/endercon) by Walls
 - Block icons are from the [Minecraft Wiki](https://minecraft.wiki)
+
+
+## License & Credits
+
+End Recoverd is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+
+Requires and builds on [Endercon](https://modrinth.com/datapack/endercon) by Walls
+(CC BY-NC-SA 4.0). Endercon itself is **not** included in this repository.
+
+Changes made to Endercon 4.0 files:
+- `data/minecraft/dimension/the_end.json`: the cells of the vanilla End biomes are split
+  into five cells to add the four End Recoverd biomes.
+- `data/minecraft/worldgen/noise_settings/end.json`: temperature and vegetation noise scale
+  changed (0.05 / 0.1 → 0.7) and `material_rule` set to `endrecoverd:end`.
+
+NOT AN OFFICIAL MINECRAFT SERVICE. NOT APPROVED BY OR ASSOCIATED WITH MOJANG OR MICROSOFT.
