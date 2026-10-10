@@ -9,7 +9,8 @@
 - Download Endercon [here](https://modrinth.com/datapack/endercon).
 - Enable **Endercon first**, then End Recoverd, and put End Recoverd **above** Endercon in the list of selected data packs.
 - Use it in a **new world** (or in End chunks that have not been generated yet). See [Installation](#installation).
-
+- This Datapack is partly made with help of AI so you can use it with the amazing Endercon Datapack.
+- I just made it for my server so we can have both things and made it public so you can try it for yourself.
 -----------------------
 
 ## What is in this data pack?
