@@ -1,12 +1,12 @@
 # End Recoverd
 
 > **4 new End biomes · 8 new structures to explore · vanilla End Cities restored**
-> A small End update for **Minecraft 26.3** that runs on top of **Endercon 4.0**. No mods needed.
+> A small End update for **Minecraft 26.2** that runs on top of **Endercon 3.3**. No mods needed.
 
 ## IMPORTANT
 
 - **ENDERCON 4.0 IS REQUIRED.** This data pack does not work on its own.
-- Download Endercon [here](https://modrinth.com/datapack/endercon).
+- Download Endercon [here](https://modrinth.com/datapack/endercon/version/3.3).
 - Enable **Endercon first**, then End Recoverd, and put End Recoverd **above** Endercon in the list of selected data packs.
 - Use it in a **new world** (or in End chunks that have not been generated yet). See [Installation](#installation).
 - This Datapack is partly made with help of AI so you can use it with the amazing Endercon Datapack.
